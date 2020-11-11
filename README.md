@@ -48,13 +48,11 @@ python -m main --dataset_path ${DATASET_PATH} --mod eval --dataset_name test \
 ## Citation
 If you find our work useful for your research, please consider citing the paper:
 ```
-@misc{li2020smallfootprint,
-      title={Small-Footprint Keyword Spotting with Multi-Scale Temporal Convolution}, 
-      author={Ximin Li and Xiaodong Wei and Xiaowei Qin},
-      year={2020},
-      eprint={2010.09960},
-      archivePrefix={arXiv},
-      primaryClass={eess.AS}
+@inproceedings{Li2020,
+  author={Ximin Li and Xiaodong Wei and Xiaowei Qin},
+  title={{Small-Footprint Keyword Spotting with Multi-Scale Temporal Convolution}},
+  year=2020,
+  booktitle={Proc. Interspeech 2020}
 }
 ```
 ## Reference
